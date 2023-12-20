@@ -1,0 +1,1 @@
+export const generateLovePercent=()=>`${Math.floor(Math.random()*100)}%`;
